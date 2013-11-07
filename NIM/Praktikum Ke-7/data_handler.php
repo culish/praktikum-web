@@ -108,7 +108,7 @@ Edit</a> |
 <!--
 Lengkapi kode PHP untuk membuat link hapus data
 -->
-</a><a href="<?php echo $root;?>&amp;act=del&amp;id=<?php echo $id;?>" onclick="return confirm('Hapus data dengan <? echo $id ; echo ' ( '.$row[1].' )'?>?')">
+</a><a href="<?php echo $root;?>&amp;act=del&amp;id=<?php echo $id;?>" onclick="return confirm('Hapus data?')">
 Hapus</a> |
 </td>
 </tr>
